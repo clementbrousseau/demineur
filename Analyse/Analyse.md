@@ -26,3 +26,5 @@ Ce diagramme représente le fonctionnement du jeu à partir du lancement d’une
 - **Diagramme d’états de transition**
 
 ![](Aspose.Words.89bbe37c-06f8-4bf6-9fe0-0977dcb7251e.001.png)
+
+Ce diagramme représente les différents états que peuvent prendre les cases ainsi que les opérations pour y parvenir.
