@@ -1,0 +1,4 @@
+class EtatCase:
+    MASQUEE = "MASQUEE"
+    DECOUVERTE = "DECOUVERTE"
+    MARQUEE = "MARQUEE"
